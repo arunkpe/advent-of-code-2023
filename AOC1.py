@@ -2,8 +2,8 @@ import os
 from collections import defaultdict  # You might find this useful
 
 
-txt_file = "../46threevqs8114.txt"
-file_path = os.getcwd() + "/" + txt_file
+txt_file = "46threevqs8114.txt"
+file_path = os.getcwd() + "/input/" + txt_file
 
 
 class Calibration:
